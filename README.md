@@ -1,16 +1,15 @@
-## Hi there 👋
 
-<!--
-**Aunyanakon/Aunyanakon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Yanakon Charoenchaturong
 
-Here are some ideas to get you started:
+Computer Science student interested in software development and web technologies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently learning:
+- C
+- HTML & CSS
+- JavaScript
+
+I use Git and GitHub to work on projects, practice coding, and keep track of what I learn.
+
+---
+
+GitHub: [@Aunyanakon](https://github.com/Aunyanakon)
